@@ -1,5 +1,4 @@
-## Hi there 
-
+## Rečnik - The Ultimate Serbian Dictionary 
 <!--
 
 **Here are some ideas to get you started:**
